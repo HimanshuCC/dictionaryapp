@@ -1,0 +1,11 @@
+{
+  "name": "dictionary",
+  "displayName": "dictionary",
+  "userInterfaceStyle":"automatic",
+  "ios":{
+    "userInterfaceStyle":"automatic"
+  },
+  "android":{
+    "userInterfaceStyle":"automatic"
+  }
+}
